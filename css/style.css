@@ -26,23 +26,23 @@ body {
 }
 
 h1 {
-  font-size: 12.25em;
+  font-size: 1em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 3em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
 }
 
 h3 {
-  font-weight: normal;
-  letter-spacing: .3em;
-  margin-bottom: 18px;
+  font-weight: 1em;
+  letter-spacing: .2em;
+  margin-bottom: 2px;
   line-height: 1em;
 }
 
